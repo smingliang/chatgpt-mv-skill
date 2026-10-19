@@ -1,0 +1,4 @@
+interface:
+  display_name: "手绘动画与歌词 MV"
+  short_description: "Create watercolor animations and synchronized lyric videos"
+  default_prompt: "使用 $painted-animation，根据我的素材制作手绘水彩动画或歌词 MV，并检查分镜和渲染预览。"
